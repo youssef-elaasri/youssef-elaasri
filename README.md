@@ -1,18 +1,74 @@
-# 💫 About Me:
-I possess an intermediate skill level in the field of software engineering, with specialized expertise in several programming languages, including Python, C, and Java. My proficiency extends to web development, where I have successfully applied my coding skills to create and maintain dynamic and responsive websites. I am well-versed in Agile methodologies, an approach that emphasizes flexibility, customer satisfaction, and continuous improvement, which I consistently apply in my projects to ensure efficiency and effectiveness. My experience with collaborative team projects has honed my ability to work well with others, communicate effectively, and contribute positively to a team environment. I pride myself on being innovative, always looking for new ways to solve problems and implement solutions that are not only effective but also efficient and forward-thinking.
+<h1 align="center">Hi, I'm Youssef Elaasri 👋</h1>
 
+<p align="center">
+  <em>Engineering student at Grenoble-INP ENSIMAG · .NET Developer at Natixis (BPCE Group) · Based in Paris, France</em>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/youssef.jcctv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yejcctv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-elaasri) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/youssef-elaasri/">
+    <img src="https://img.shields.io/badge/LinkedIn-youssef--elaasri-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youssefelaasri2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-youssefelaasri2002@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=youssef-elaasri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=youssef-elaasri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youssef-elaasri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## About Me
 
+I'm a final-year computer science and mathematics engineering student passionate about distributed systems, software architecture, and building things that scale. I thrive in collaborative environments where I can learn, grow, and make a real impact.
 
+Currently working as a **.NET Developer** at **Natixis (BPCE Group)**, where I build scalable data provider services and manage cloud deployment pipelines across dev, pre-prod, and production environments.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+`C# / .NET` · `Python` · `Java` · `C` · `JavaScript`
+
+**Distributed Systems & Messaging**
+`Kafka` · `RabbitMQ` · `Pulsar` · `TIBCO FTL` · `Aeron` · `NATS`
+
+**DevOps & Cloud**
+`Docker` · `Kubernetes` · `Chaos Engineering` · `Git`
+
+**Human Languages**
+🇫🇷 French (Fluent) · 🇬🇧 English (B2 TOEIC) · 🇲🇦 Arabic (Native)
+
+---
+
+## 💼 Experience
+
+**Natixis (BPCE Group)** — .NET Developer *(Nov 2025 – Present)*
+> Building scalable data provider services in C#/.NET and managing end-to-end cloud deployments across Dev, Pre-prod, and Production.
+
+**Natixis (BPCE Group)** — Messaging Solutions Research *(Feb 2025 – Aug 2025)*
+> Benchmarked messaging systems (Kafka, RabbitMQ, Pulsar) for latency, throughput, and resilience. Implemented chaos engineering practices with Clumsy.
+
+**Eboo Solution** — Software Developer *(Jun 2024 – Jul 2024)*
+> Built a cross-platform video surveillance client with real-time streaming across PC, tablet, and mobile, with GPU-accelerated rendering.
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| [**Distributed Data Processing**](https://github.com/youssef-elaasri) | Kafka · Docker · Kubernetes | Distributed pipeline for data capture, processing, and visualization in a cloud environment |
+| [**INP Legends — Educational RPG**](https://github.com/youssef-elaasri/RPGGame) | JavaScript · Node.js · Docker | 2D RPG game with embedded Python coding challenges, tested with Cypress and Jest |
+
+---
+
+## 🎓 Education
+
+**Grenoble-INP ENSIMAG** — Engineering Degree in Computer Science & Mathematics *(Since 2022)*
+
+**Lycée Ibn Timiya, Marrakech** — Preparatory Classes in Maths, Physics & CS *(2020 – 2022)*
+
+---
+
+<p align="center">
+  <em>Always open to interesting conversations, collaborations, or opportunities — feel free to reach out!</em>
+</p>
