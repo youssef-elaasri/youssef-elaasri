@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Youssef Elaasri 👋</h1>
 
 <p align="center">
-  <em>Engineering student at Grenoble-INP ENSIMAG · .NET Developer at Natixis (BPCE Group) · Based in Paris, France</em>
+  <em>Software Engineer · .NET Developer at Natixis (BPCE Group) · Based in Paris, France</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a final-year computer science and mathematics engineering student passionate about distributed systems, software architecture, and building things that scale. I thrive in collaborative environments where I can learn, grow, and make a real impact.
+I'm a software engineer passionate about distributed systems, software architecture, and building things that scale. I thrive in collaborative environments where I can learn, grow, and make a real impact.
 
 Currently working as a **.NET Developer** at **Natixis (BPCE Group)**, where I build scalable data provider services and manage cloud deployment pipelines across dev, pre-prod, and production environments.
 
